@@ -27,4 +27,5 @@ Risk 1: Quantitative effectiveness of the light and vibrations/tree of heaven li
 2. Electricity needs: If a trap needed power, should it run on a battery or is an external source like a solar panel possible?
 3. Attracting SLF: What effective and practical baits are there to attract SLF into the trap?
 References:
-Caitlin Hayes, Cornell Chronicle, and 2025 January 27. “Spotted Lanternflies Could Cost Nys Grape Industry Millions.” Cornell Chronicle, Cornell University, 27 Jan. 2025, news.cornell.edu/stories/2025/01/spotted-lanternflies-could-cost-nys-grape-industry-millions.
+Caitlin Hayes, Cornell Chronicle, and 2025 January 27. “Spotted Lanternflies Could Cost Nys Grape Industry Millions.” Cornell Chronicle, Cornell University, 27 Jan. 2025, news.cornell.edu/stories/2025/01/spotted-lanternflies-could-cost-nys-grape-industry-millions. 
+
