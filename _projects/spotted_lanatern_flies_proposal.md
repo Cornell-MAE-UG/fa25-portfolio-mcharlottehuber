@@ -3,7 +3,7 @@ fontsize: 11pt
 geometry: margin=1in
 papersize: letter
 pagestyle: empty
-image: 4-Stages-Adult.jpg
+image: /assets/images/4-Stages-Adult.jpg
 header-includes:
   - \pagenumbering{gobble}
 
