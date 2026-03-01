@@ -3,9 +3,10 @@ fontsize: 11pt
 geometry: margin=1in
 papersize: letter
 pagestyle: empty
-image: /assets/images/slf.jpg
+image: istockphoto-1452999769-612x612.jpg
 header-includes:
   - \pagenumbering{gobble}
+
 ---
 
 # The Spotted Lantern Fly Epidemic
