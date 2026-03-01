@@ -5,7 +5,7 @@ permalink: /cv/
 ---
 ## Curriculum Vitae
 
-[Download my CV]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
+[Download my CV]({{ "/assets/Charlotte Huber CV.pdf" | relative_url }}) in PDF format.
 
 
 **Email:** [mjh462@cornell.edu](mailto:netID@cornell.edu) | | | **Phone:** +1 607 697 5375
