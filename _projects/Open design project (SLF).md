@@ -78,7 +78,7 @@ During harvest, bugs on the vines are collected with the fruit but only a small 
 ## First prototype 
 ### Design Documentation 
 
- ** Container**
+ **Container**
 - Description: Outer housing of the trap which contains the drawer and trap funnel as well as interfaces with the extendable post
 - McMaster: N/A, all parts from Taylor design studio
 - Fabrication: Use bandsaw to cut wood to size, then glue sides together to form box
@@ -108,9 +108,6 @@ During harvest, bugs on the vines are collected with the fruit but only a small 
 
 
 ## sketches
-
-
-<div style="display:flex; gap:16px; justify-content:center; align-items:flex-start; flex-wrap:wrap; margin: 16px 0;">
   <figure style="margin:0; text-align:center; max-width:420px; width:100%;">
   <img src="/workspaces/fa25-portfolio-mcharlottehuber/assets/images/first_prototype_sketches.png"
        alt="Prototype Setup"
@@ -119,9 +116,7 @@ During harvest, bugs on the vines are collected with the fruit but only a small 
 
 
 
-
 ## measurements & dimensions
-<div style="display:flex; gap:16px; justify-content:center; align-items:flex-start; flex-wrap:wrap; margin: 16px 0;">
   <figure style="margin:0; text-align:center; max-width:420px; width:100%;">
   <img src="/workspaces/fa25-portfolio-mcharlottehuber/assets/images/first_prototype_measurements&dimensions.png"
        alt="Prototype Setup"
