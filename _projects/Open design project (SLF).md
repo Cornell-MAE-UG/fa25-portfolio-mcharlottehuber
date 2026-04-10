@@ -132,15 +132,19 @@ During harvest, bugs on the vines are collected with the fruit but only a small 
 Rails the drawer
 - 11435A202 $23.14
 - https://www.mcmaster.com/11435A202/
+
 Adjustable zip ties
 - 7134K148 $9.38 for a pack of 100 https://www.mcmaster.com/7134K148/
+
 Extension post 
 - 1471T51 6 feet $21.58 https://www.mcmaster.com/1471T51/
 - 1471T53 4 feet $20.30 https://www.mcmaster.com/1471T53-1471T532/
+
 Acrylic 
 - 8505K721
 - https://www.mcmaster.com/8505K721-8505K112/
 - $9.65 each for 12 in by 12 in
+
 L bracket
 - 8982K19
 
