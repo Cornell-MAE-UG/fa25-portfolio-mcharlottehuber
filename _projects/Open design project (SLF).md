@@ -95,25 +95,53 @@ During harvest, bugs on the vines are collected with the fruit but only a small 
 - McMaster: no McMaster parts, materials: wooden sheets and cylinders available in Taylor design studio, CA glue,  
 - Fabrication: sawed wood to desired width and length with the bandsaw, drilled holes (1cm diameter) every 2 inches in 2 out of 3 wooden parts of the same length, glued to strips of wood in a horseshoe shape, with the strips of wood with holes facing each other, for the inner and the outer part of the pole. Cut the wood cylinder (1cm diameter) into 4 inch long pieces, superglued ticker wooden cylinder at the end such that these pieces slot into the drilled holes on the pole. 
 
+## CAD design 
+
+<div style="display:flex; gap:16px; justify-content:center; align-items:flex-start; flex-wrap:wrap; margin: 16px 0;">
+  <figure style="margin:0; text-align:center; max-width:420px; width:100%;">
+  <img src="/workspaces/fa25-portfolio-mcharlottehuber/assets/images/first_prototype_CAD.png"
+       alt="Prototype Setup"
+       style="width:100%; max-width:420px; border-radius:8px;">
+</figure>
+
+## sketches
+
+
+<div style="display:flex; gap:16px; justify-content:center; align-items:flex-start; flex-wrap:wrap; margin: 16px 0;">
+  <figure style="margin:0; text-align:center; max-width:420px; width:100%;">
+  <img src="/workspaces/fa25-portfolio-mcharlottehuber/assets/images/first_prototype_sketches.png"
+       alt="Prototype Setup"
+       style="width:100%; max-width:420px; border-radius:8px;">
+</figure>
+
+
+## measurements & dimensions
+
+
+<div style="display:flex; gap:16px; justify-content:center; align-items:flex-start; flex-wrap:wrap; margin: 16px 0;">
+  <figure style="margin:0; text-align:center; max-width:420px; width:100%;">
+  <img src="/workspaces/fa25-portfolio-mcharlottehuber/assets/images/first_prototype_measurements&dimensions.png"
+       alt="Prototype Setup"
+       style="width:100%; max-width:420px; border-radius:8px;">
+</figure>
 
 
 
-
-
-McMaster
+##McMaster
 Rails the drawer
-11435A202 $23.14
-https://www.mcmaster.com/11435A202/
-Adjustable zip ties:
-7134K148 $9.38 for a pack of 100 https://www.mcmaster.com/7134K148/
+- 11435A202 $23.14
+- https://www.mcmaster.com/11435A202/
+Adjustable zip ties
+- 7134K148 $9.38 for a pack of 100 https://www.mcmaster.com/7134K148/
 Extension post 
-1471T51 6 feet $21.58 https://www.mcmaster.com/1471T51/
-1471T53 4 feet $20.30 https://www.mcmaster.com/1471T53-1471T532/
+- 1471T51 6 feet $21.58 https://www.mcmaster.com/1471T51/
+- 1471T53 4 feet $20.30 https://www.mcmaster.com/1471T53-1471T532/
 Acrylic 
-8505K721
-https://www.mcmaster.com/8505K721-8505K112/
-$9.65 each for 12 in by 12 in
-8982K19 - L bracket
+- 8505K721
+- https://www.mcmaster.com/8505K721-8505K112/
+- $9.65 each for 12 in by 12 in
+L bracket
+- 8982K19
 
 
 
