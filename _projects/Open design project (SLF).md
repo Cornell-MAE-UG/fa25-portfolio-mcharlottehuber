@@ -22,16 +22,16 @@ header-includes:
 **Client(s):** Cornell CALS Extension / E\&J Gallo Winery / National Grape  
 
 ## Client Outline
-## Problem statement 
+### Problem statement 
 Vineyards across the United States are plagued by spotted lantern fly infestations, which, according to the Cornell Chronicle can cause up to $8.8 million in damages per vineyard over 3 years of infestation due to vine death, reduced fruit quality, and product contamination. There is currently no available mechanical system that draws the SLFs on or near grapevines during the harvest window away from vines and concentrates them into a controlled location where they can be removed or contained.
 
 
-## Impact
+### Impact
 During harvest, bugs on the vines are collected with the fruit but only a small amount of SLFs can contaminate an entire load. At that point pesticides cannot be used and hand removal is unrealistic. A system that removes SLFs in this window would reduce rejected loads and not change harvest operations. 
 
-## Proposed direction(s)
+### Proposed direction(s)
 
-### Concept A (primary): Directional Light & Vibration SLF Attraction Station
+#### Concept A (primary): Directional Light & Vibration SLF Attraction Station
 
 
 **What it is:** A mounted station placed a fixed distance from the vine uses directional light and mechanical transmitted vibration to pull SLFs away from the crop and into a passive funnel for containment. 
@@ -43,7 +43,7 @@ During harvest, bugs on the vines are collected with the fruit but only a small 
   
   
 
-### Concept B: Scent and Visual Cue SLF Trap
+#### Concept B: Scent and Visual Cue SLF Trap
 
 **What it is:**A cylindrical trap with holes funneling inward just large enough for an SLF to fly in that uses the scent of a Tree of Heaven and is mounted on a tall, slender silhouette to attract the SLF. This would hold a liquid to inhibit SLF flight and drown them. 
 
@@ -54,13 +54,13 @@ During harvest, bugs on the vines are collected with the fruit but only a small 
 **End of semester proof-of-concept:** A cylinder with holes angled inward just large enough to allow SLFs to enter. Inside it can hold Tree of Heaven sap and emit its scent and hold a pool of soapy water, or another liquid, at the bottom to disorient and drown SLF. 
 
 
-## Key risks / unknowns
+### Key risks / unknowns
 
 - Risk 1 —  Quantitative effectiveness of the light and vibrations/tree of heaven liquid at attracting the SLFs is unknown. We can test this by placing SLFs in a controlled environment with access to these stimuli and vines.
 - Risk 2 — How the stimuli affect other organisms in the vineyard or how the stimuli may be affected by weather or time of day; these could be tested in a controlled environment with varying conditions. 
 
 
-## Questions for the client
+### Questions for the client
 1. **Trap type & placement:**  
    *Decision affected:* Where can a trap be installed without interfering with the mechanical harvester?
 
@@ -70,15 +70,15 @@ During harvest, bugs on the vines are collected with the fruit but only a small 
 3. **Attracting SLF:**  
    *Decision affected:* What effective and practical baits are there to attract SLF into the trap?
 
-## References
+### References
 
 - Caitlin Hayes, Cornell Chronicle, and 2025 January 27. “Spotted Lanternflies Could Cost Nys Grape Industry Millions.” Cornell Chronicle, Cornell University, 27 Jan. 2025, news.cornell.edu/stories/2025/01/spotted-lanternflies-could-cost-nys-grape-industry-millions. 
 
 
 ## First prototype 
-## Design Documentation 
+### Design Documentation 
 
- **Container**
+ ** Container**
 - Description: Outer housing of the trap which contains the drawer and trap funnel as well as interfaces with the extendable post
 - McMaster: N/A, all parts from Taylor design studio
 - Fabrication: Use bandsaw to cut wood to size, then glue sides together to form box
@@ -187,13 +187,13 @@ When a model of a similar size as a lanternfly is pulled on a string upward thro
 ## Results
 
 **Drawer**
-The drawer prototype was tested with loads up to 6 kg, which is approximately half of the target load for the final design due to anticipated differences in material strength. The results indicated that while the structure could support this load, the handle design requires improvement to reliably sustain higher forces during repeated pushing and pulling. Additionally, the drawer’s motion was evaluated under a 3 kg load, where it successfully opened and closed smoothly for 15 consecutive cycles without jamming. Additionally, the drawer can be reused 50 times without visible damage. These results suggest that the sliding mechanism is effective, but further refinement of the handle is necessary to meet the full design requirements. 
+<p>The drawer prototype was tested with loads up to 6 kg, which is approximately half of the target load for the final design due to anticipated differences in material strength. The results indicated that while the structure could support this load, the handle design requires improvement to reliably sustain higher forces during repeated pushing and pulling. Additionally, the drawer’s motion was evaluated under a 3 kg load, where it successfully opened and closed smoothly for 15 consecutive cycles without jamming. Additionally, the drawer can be reused 50 times without visible damage. These results suggest that the sliding mechanism is effective, but further refinement of the handle is necessary to meet the full design requirements. 
 
 **Trap Funnel** 
-Under good trap conditions, the fly model could be placed inward on a string and with very little force fall through the funnel, and when pulled back up by string the fly model could not escape once inside the trap
+<p>Under good trap conditions, the fly model could be placed inward on a string and with very little force fall through the funnel, and when pulled back up by string the fly model could not escape once inside the trap
 These so called good conditions were when the flaps were properly spaced and oriented, and the string tied around them was not caught
 In worse conditions, such as improper spacing, twisted flaps, or a caught string, the trap either did not let the model bug enter, or could not keep it from escaping. 
-Implications:
+<p>Implications:
 The flaps need spacers to keep them in place on the ring
 The flaps need more than one attachment point to keep the face of each flap pointing at the center of the ring
 We need a better mechanism to prevent the flaps from opening too wide so that they will always be hit by a bug trying to escape - perhaps a ring near the bottom of the flaps keeping them close to the center
@@ -203,14 +203,14 @@ Flaps need to be thinner so that their thickness does not cause them to collide 
 Will consider moving from a circular funnel to a different shape like an octagon so flaps fit together better and do not have to deal with flaps on a curved hinge
 
 **Extendable Pole**
-Pole position successfully raised up and down 50 times without visible damage or slippage
+<p>Pole position successfully raised up and down 50 times without visible damage or slippage
 Pole position setting pin can be pulled with minimal force
 Pole did not visibly deform when trap loaded with 6 kg
 These show the extendable pole mechanism passed all tests we set for it and needs minimal change for our next iteration
 
 
 ## Success Criteria
-Our project is a bug trap for spotted lantern flies to minimize the harm they can do on crops of a vineyard. Our trap is box shaped and will be placed on an adjustable pole in the vineyard, it will contain a cone shaped trapping mechanism and a drawer to catch the SLF’s and remove them. 
+<p>Our project is a bug trap for spotted lantern flies to minimize the harm they can do on crops of a vineyard. Our trap is box shaped and will be placed on an adjustable pole in the vineyard, it will contain a cone shaped trapping mechanism and a drawer to catch the SLF’s and remove them. 
 
 - Drawer weight capacity, this is assessing if the drawer could successfully hold the weight of the maximum load SLF in addition to a safety factor, success is determined if the drawer can easily be closed 20 times with a load of 12kg and without undergoing any visible damage 
 (can be demoed on exhibit day)
