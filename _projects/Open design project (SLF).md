@@ -145,36 +145,37 @@ L bracket
 
 
 
-Design Test
-Container 
-Assembly and fastening: container is secure and stable on pole and can withstand 10 mph wind. 
-Test: Mount Pole and container, attach rope to the part of the container where the wind would typically hit. Pull horizontally until force is equivalent to the force applied by wind at 10mph. F=½ (pCAv2), using pull scale.
-What we will observe: Does the container stay in its original position relative to the pole (no rotation or loosening)? Does the pole bend? Is there any permanent deformation?
-Success criteria: Measure the distance between the bottom end of the pole and the bottom end of the container, before and after force is applied. Distance should not change if the prototype is resistant enough. 
-Drawer 
-Load-bearing performance: Can hold 12 kg without limitation of motion 
-Motion and interference: opening & closing smoothly without jamming
-Repeating-Use: Drawer can be reused 50 times without visible damage
-Funnel 
-The flaps meet between 1 and 3 centimeters from each other in the middle of the funnel.
+##Design Test
+**Container**
+- Assembly and fastening: container is secure and stable on pole and can withstand 10 mph wind. 
+- Test: Mount Pole and container, attach rope to the part of the container where the wind would typically hit. Pull horizontally until force is equivalent to the force applied by wind at 10mph. F=½ (pCAv2), using pull scale.
+- What we will observe: Does the container stay in its original position relative to the pole (no rotation or loosening)? Does the pole bend? Is there any permanent deformation?
+- Success criteria: Measure the distance between the bottom end of the pole and the bottom end of the container, before and after force is applied. Distance should not change if the prototype is resistant enough. 
+**Drawer** 
+- Load-bearing performance: Can hold 12 kg without limitation of motion 
+- Motion and interference: opening & closing smoothly without jamming
+- Repeating-Use: Drawer can be reused 50 times without visible damage
+**Funnel** 
+- The flaps meet between 1 and 3 centimeters from each other in the middle of the funnel.
 When a model of a similar size as a lanternfly is pulled on a string upward through the funnel, the flaps mesh together and prevent the model from escaping. 
-A string or rubber band that keeps the flaps pulled inward to the center of the funnel can be replaced as necessary to adjust the trap. 
-The friction between the ring and flaps can be adjusted, and flaps can be replaced as necessary to allow easy entry of lanternflies into the trap. 
-A model of the same size as an adult lanternfly moves through the funnel into the trap when dropped into the funnel. 
-Extendable Pole 
-Motion and interference: Pole can move up and down smoothly without jamming
-Repeating-Use: Position can be changed 50 times without visible damage (after 50 times lubrication reapplied) , pin can be pulled out with minimal force
-Stability Support: Doesn't slip when changing height
-Load-bearing: make sure the pole can hold maximum weight (14.25 kg)
-Tests: Repeated use: Cycle the pole 50 times then inspect for physical damage; scratches, chipping, the deformation of the original horseshoe shape. Stability support: Mark initial height, apply load, measure any vertical displacement over time, check 20 minutes. : 
-Success criteria: There should be negligible visible changes to the pole and negligible vertical displacement when the realistic load is applied.
-Results
-Container
+- A string or rubber band that keeps the flaps pulled inward to the center of the funnel can be replaced as necessary to adjust the trap. 
+- The friction between the ring and flaps can be adjusted, and flaps can be replaced as necessary to allow easy entry of lanternflies into the trap. 
+- A model of the same size as an adult lanternfly moves through the funnel into the trap when dropped into the funnel. 
+**Extendable Pole** 
+- Motion and interference: Pole can move up and down smoothly without jamming
+- Repeating-Use: Position can be changed 50 times without visible damage (after 50 times lubrication reapplied) , pin can be pulled out with minimal force
+- Stability Support: Doesn't slip when changing height
+- Load-bearing: make sure the pole can hold maximum weight (14.25 kg)
+- Tests: Repeated use: Cycle the pole 50 times then inspect for physical damage; scratches, chipping, the deformation of the original horseshoe shape. Stability support: Mark initial height, apply load, measure any vertical displacement over time, check 20 minutes. : 
+- Success criteria: There should be negligible visible changes to the pole and negligible vertical displacement when the realistic load is applied.
 
 
-Drawer
+
+## Results
+
+**Drawer**
 The drawer prototype was tested with loads up to 6 kg, which is approximately half of the target load for the final design due to anticipated differences in material strength. The results indicated that while the structure could support this load, the handle design requires improvement to reliably sustain higher forces during repeated pushing and pulling. Additionally, the drawer’s motion was evaluated under a 3 kg load, where it successfully opened and closed smoothly for 15 consecutive cycles without jamming. Additionally, the drawer can be reused 50 times without visible damage. These results suggest that the sliding mechanism is effective, but further refinement of the handle is necessary to meet the full design requirements. 
-Trap Funnel 
+**Trap Funnel** 
 Under good trap conditions, the fly model could be placed inward on a string and with very little force fall through the funnel, and when pulled back up by string the fly model could not escape once inside the trap
 These so called good conditions were when the flaps were properly spaced and oriented, and the string tied around them was not caught
 In worse conditions, such as improper spacing, twisted flaps, or a caught string, the trap either did not let the model bug enter, or could not keep it from escaping. 
@@ -186,7 +187,7 @@ We need to make flaps that can be adjusted in length
 The attachment of the funnel to the rest of the trap needs to not interfere with the action of the funnel and the range of motion of the flaps
 Flaps need to be thinner so that their thickness does not cause them to collide with and get stuck behind adjacent flaps
 Will consider moving from a circular funnel to a different shape like an octagon so flaps fit together better and do not have to deal with flaps on a curved hinge
-Extendable Pole
+**Extendable Pole**
 Pole position successfully raised up and down 50 times without visible damage or slippage
 Pole position setting pin can be pulled with minimal force
 Pole did not visibly deform when trap loaded with 6 kg
