@@ -82,14 +82,17 @@ During harvest, bugs on the vines are collected with the fruit but only a small 
 - Description: Outer housing of the trap which contains the drawer and trap funnel as well as interfaces with the extendable post
 - McMaster: N/A, all parts from Taylor design studio
 - Fabrication: Use bandsaw to cut wood to size, then glue sides together to form box
+
 **Drawer** 
 - Description: a drawer on a set of rails at the bottom of the trap to catch the SLF and store the trap liquid 
 - McMaster: none, materials include wooden sheets available in the Taylor design studio, CA glue 
 - Fabrication: glue 2 strips of wood cut to size onto the inside of the box, make the box for the drawer out of wood and cut a slit with a ledge at the bottom of the slit on either side of the drawer such that it slides into the container easily 
+
 **Trap Funnel**
 - Description: Gonna need a photo 
 - McMaster: No McMaster parts for functional prototype. Materials: diameter 8 cm wire, wood, zipties, string, and rubber bands from TDS.
 - Fabrication: Used the bandsaw to cut flaps out of wood and used the bandsaw to cut a notch in the back of each for a rubber band/string to sit in. Drilled a hole in each flap with a hand drill. Used pliers to cut the wire and bent it into a circle. Ziptied each flap to the ring.
+
 **Extendable Post** 
 - Description: two horseshoe shaped poles, where the smaller one fits into the bigger one, with holes drilled into the sides such that a rod can fit through respective holes and make the length adjustable 
 - McMaster: no McMaster parts, materials: wooden sheets and cylinders available in Taylor design studio, CA glue,  
@@ -97,12 +100,12 @@ During harvest, bugs on the vines are collected with the fruit but only a small 
 
 ## CAD design 
 
-<div style="display:flex; gap:16px; justify-content:center; align-items:flex-start; flex-wrap:wrap; margin: 16px 0;">
   <figure style="margin:0; text-align:center; max-width:420px; width:100%;">
   <img src="/workspaces/fa25-portfolio-mcharlottehuber/assets/images/first_prototype_CAD.png"
        alt="Prototype Setup"
        style="width:100%; max-width:420px; border-radius:8px;">
 </figure>
+
 
 ## sketches
 
@@ -115,9 +118,9 @@ During harvest, bugs on the vines are collected with the fruit but only a small 
 </figure>
 
 
+
+
 ## measurements & dimensions
-
-
 <div style="display:flex; gap:16px; justify-content:center; align-items:flex-start; flex-wrap:wrap; margin: 16px 0;">
   <figure style="margin:0; text-align:center; max-width:420px; width:100%;">
   <img src="/workspaces/fa25-portfolio-mcharlottehuber/assets/images/first_prototype_measurements&dimensions.png"
@@ -127,7 +130,10 @@ During harvest, bugs on the vines are collected with the fruit but only a small 
 
 
 
-##McMaster
+
+
+## McMaster
+
 Rails the drawer
 - 11435A202 $23.14
 - https://www.mcmaster.com/11435A202/
@@ -145,22 +151,27 @@ L bracket
 
 
 
-##Design Test
+
+## Design Test
+
 **Container**
 - Assembly and fastening: container is secure and stable on pole and can withstand 10 mph wind. 
 - Test: Mount Pole and container, attach rope to the part of the container where the wind would typically hit. Pull horizontally until force is equivalent to the force applied by wind at 10mph. F=½ (pCAv2), using pull scale.
 - What we will observe: Does the container stay in its original position relative to the pole (no rotation or loosening)? Does the pole bend? Is there any permanent deformation?
 - Success criteria: Measure the distance between the bottom end of the pole and the bottom end of the container, before and after force is applied. Distance should not change if the prototype is resistant enough. 
+
 **Drawer** 
 - Load-bearing performance: Can hold 12 kg without limitation of motion 
 - Motion and interference: opening & closing smoothly without jamming
 - Repeating-Use: Drawer can be reused 50 times without visible damage
+
 **Funnel** 
 - The flaps meet between 1 and 3 centimeters from each other in the middle of the funnel.
 When a model of a similar size as a lanternfly is pulled on a string upward through the funnel, the flaps mesh together and prevent the model from escaping. 
 - A string or rubber band that keeps the flaps pulled inward to the center of the funnel can be replaced as necessary to adjust the trap. 
 - The friction between the ring and flaps can be adjusted, and flaps can be replaced as necessary to allow easy entry of lanternflies into the trap. 
 - A model of the same size as an adult lanternfly moves through the funnel into the trap when dropped into the funnel. 
+
 **Extendable Pole** 
 - Motion and interference: Pole can move up and down smoothly without jamming
 - Repeating-Use: Position can be changed 50 times without visible damage (after 50 times lubrication reapplied) , pin can be pulled out with minimal force
@@ -168,6 +179,8 @@ When a model of a similar size as a lanternfly is pulled on a string upward thro
 - Load-bearing: make sure the pole can hold maximum weight (14.25 kg)
 - Tests: Repeated use: Cycle the pole 50 times then inspect for physical damage; scratches, chipping, the deformation of the original horseshoe shape. Stability support: Mark initial height, apply load, measure any vertical displacement over time, check 20 minutes. : 
 - Success criteria: There should be negligible visible changes to the pole and negligible vertical displacement when the realistic load is applied.
+
+
 
 
 
