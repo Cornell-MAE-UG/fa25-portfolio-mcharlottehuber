@@ -175,6 +175,7 @@ When a model of a similar size as a lanternfly is pulled on a string upward thro
 
 **Drawer**
 The drawer prototype was tested with loads up to 6 kg, which is approximately half of the target load for the final design due to anticipated differences in material strength. The results indicated that while the structure could support this load, the handle design requires improvement to reliably sustain higher forces during repeated pushing and pulling. Additionally, the drawer’s motion was evaluated under a 3 kg load, where it successfully opened and closed smoothly for 15 consecutive cycles without jamming. Additionally, the drawer can be reused 50 times without visible damage. These results suggest that the sliding mechanism is effective, but further refinement of the handle is necessary to meet the full design requirements. 
+
 **Trap Funnel** 
 Under good trap conditions, the fly model could be placed inward on a string and with very little force fall through the funnel, and when pulled back up by string the fly model could not escape once inside the trap
 These so called good conditions were when the flaps were properly spaced and oriented, and the string tied around them was not caught
@@ -187,6 +188,7 @@ We need to make flaps that can be adjusted in length
 The attachment of the funnel to the rest of the trap needs to not interfere with the action of the funnel and the range of motion of the flaps
 Flaps need to be thinner so that their thickness does not cause them to collide with and get stuck behind adjacent flaps
 Will consider moving from a circular funnel to a different shape like an octagon so flaps fit together better and do not have to deal with flaps on a curved hinge
+
 **Extendable Pole**
 Pole position successfully raised up and down 50 times without visible damage or slippage
 Pole position setting pin can be pulled with minimal force
@@ -194,16 +196,16 @@ Pole did not visibly deform when trap loaded with 6 kg
 These show the extendable pole mechanism passed all tests we set for it and needs minimal change for our next iteration
 
 
-Success Criteria
+## Success Criteria
 Our project is a bug trap for spotted lantern flies to minimize the harm they can do on crops of a vineyard. Our trap is box shaped and will be placed on an adjustable pole in the vineyard, it will contain a cone shaped trapping mechanism and a drawer to catch the SLF’s and remove them. 
 
-Drawer weight capacity, this is assessing if the drawer could successfully hold the weight of the maximum load SLF in addition to a safety factor, success is determined if the drawer can easily be closed 20 times with a load of 12kg and without undergoing any visible damage 
-Can be demoed on exhibit day
-Drawer can be slid on and off the rails easily, it is assessing the practical accessibility of the drawer, success is determined if the drawer is opened and closed 50 times without getting stuck 
-Can be demoed on exhibit day
+- Drawer weight capacity, this is assessing if the drawer could successfully hold the weight of the maximum load SLF in addition to a safety factor, success is determined if the drawer can easily be closed 20 times with a load of 12kg and without undergoing any visible damage 
+(can be demoed on exhibit day)
+- Drawer can be slid on and off the rails easily, it is assessing the practical accessibility of the drawer, success is determined if the drawer is opened and closed 50 times without getting stuck 
+(can be demoed on exhibit day)
 Moving the pole up and down, it is assessing the durability of the pole mechanism and the practicality of the mechanism, success is determined if it can be adjusted 50 times without damaging the mechanism. 
-Can be demoed on exhibit day	
-Removability and adjustability of the length of the flaps, it is assessing flaps are easily adjustable depending on circumstances and testing with real bugs, success is determined if the flaps can be successfully removed and reattached and their length can be adjusted (50 times each) without damaging them. 
-Can be demoed on exhibit day
-The flaps range of motion is constrained so that they stay close to the center of the funnel: they cannot move past the vertical. This is to keep the opening at the bottom of the funnel small so that anytime a fly tries to leave the trap, they will hit the flaps. The funnel opening goes back to its original position (original diameter opening) after our demo fly goes through it (30 times). This is assessing the range of motion of the flaps, and success will be determined if the user can set how far they’d like the flaps to be able to move and the position they are in as a default.
+(can be demoed on exhibit day)
+- Removability and adjustability of the length of the flaps, it is assessing flaps are easily adjustable depending on circumstances and testing with real bugs, success is determined if the flaps can be successfully removed and reattached and their length can be adjusted (50 times each) without damaging them. 
+(can be demoed on exhibit day)
+- The flaps range of motion is constrained so that they stay close to the center of the funnel: they cannot move past the vertical. This is to keep the opening at the bottom of the funnel small so that anytime a fly tries to leave the trap, they will hit the flaps. The funnel opening goes back to its original position (original diameter opening) after our demo fly goes through it (30 times). This is assessing the range of motion of the flaps, and success will be determined if the user can set how far they’d like the flaps to be able to move and the position they are in as a default.
 
