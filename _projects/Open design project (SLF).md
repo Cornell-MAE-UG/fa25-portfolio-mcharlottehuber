@@ -182,13 +182,13 @@ When a model of a similar size as a lanternfly is pulled on a string upward thro
 ## Results
 
 **Drawer**
-<p>The drawer prototype was tested with loads up to 6 kg, which is approximately half of the target load for the final design due to anticipated differences in material strength. The results indicated that while the structure could support this load, the handle design requires improvement to reliably sustain higher forces during repeated pushing and pulling. Additionally, the drawer’s motion was evaluated under a 3 kg load, where it successfully opened and closed smoothly for 15 consecutive cycles without jamming. Additionally, the drawer can be reused 50 times without visible damage. These results suggest that the sliding mechanism is effective, but further refinement of the handle is necessary to meet the full design requirements. 
+The drawer prototype was tested with loads up to 6 kg, which is approximately half of the target load for the final design due to anticipated differences in material strength. The results indicated that while the structure could support this load, the handle design requires improvement to reliably sustain higher forces during repeated pushing and pulling. Additionally, the drawer’s motion was evaluated under a 3 kg load, where it successfully opened and closed smoothly for 15 consecutive cycles without jamming. Additionally, the drawer can be reused 50 times without visible damage. These results suggest that the sliding mechanism is effective, but further refinement of the handle is necessary to meet the full design requirements. 
 
 **Trap Funnel** 
-<p>Under good trap conditions, the fly model could be placed inward on a string and with very little force fall through the funnel, and when pulled back up by string the fly model could not escape once inside the trap
+Under good trap conditions, the fly model could be placed inward on a string and with very little force fall through the funnel, and when pulled back up by string the fly model could not escape once inside the trap
 These so called good conditions were when the flaps were properly spaced and oriented, and the string tied around them was not caught
 In worse conditions, such as improper spacing, twisted flaps, or a caught string, the trap either did not let the model bug enter, or could not keep it from escaping. 
-<p>Implications:
+Implications:
 The flaps need spacers to keep them in place on the ring
 The flaps need more than one attachment point to keep the face of each flap pointing at the center of the ring
 We need a better mechanism to prevent the flaps from opening too wide so that they will always be hit by a bug trying to escape - perhaps a ring near the bottom of the flaps keeping them close to the center
@@ -198,14 +198,15 @@ Flaps need to be thinner so that their thickness does not cause them to collide 
 Will consider moving from a circular funnel to a different shape like an octagon so flaps fit together better and do not have to deal with flaps on a curved hinge
 
 **Extendable Pole**
-<p>Pole position successfully raised up and down 50 times without visible damage or slippage
+Pole position successfully raised up and down 50 times without visible damage or slippage
 Pole position setting pin can be pulled with minimal force
 Pole did not visibly deform when trap loaded with 6 kg
 These show the extendable pole mechanism passed all tests we set for it and needs minimal change for our next iteration
 
 
 ## Success Criteria
-<p>Our project is a bug trap for spotted lantern flies to minimize the harm they can do on crops of a vineyard. Our trap is box shaped and will be placed on an adjustable pole in the vineyard, it will contain a cone shaped trapping mechanism and a drawer to catch the SLF’s and remove them. 
+
+Our project is a bug trap for spotted lantern flies to minimize the harm they can do on crops of a vineyard. Our trap is box shaped and will be placed on an adjustable pole in the vineyard, it will contain a cone shaped trapping mechanism and a drawer to catch the SLF’s and remove them. 
 
 - Drawer weight capacity, this is assessing if the drawer could successfully hold the weight of the maximum load SLF in addition to a safety factor, success is determined if the drawer can easily be closed 20 times with a load of 12kg and without undergoing any visible damage 
 
