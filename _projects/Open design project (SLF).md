@@ -99,10 +99,7 @@ During harvest, bugs on the vines are collected with the fruit but only a small 
 - Fabrication: sawed wood to desired width and length with the bandsaw, drilled holes (1cm diameter) every 2 inches in 2 out of 3 wooden parts of the same length, glued to strips of wood in a horseshoe shape, with the strips of wood with holes facing each other, for the inner and the outer part of the pole. Cut the wood cylinder (1cm diameter) into 4 inch long pieces, superglued ticker wooden cylinder at the end such that these pieces slot into the drilled holes on the pole. 
 
 ## CAD design 
-<img src="/workspaces/fa25-portfolio-mcharlottehuber/assets/images/first_prototype_CAD.png" alt="Description" width="500">.
-
-image: /workspaces/fa25-portfolio-mcharlottehuber/assets/images/first_prototype_CAD.png
-
+<img src="/workspaces/fa25-portfolio-mcharlottehuber/assets/images/first_prototype_CAD.png" alt="Description" width="500">
 
 
 ## sketches
