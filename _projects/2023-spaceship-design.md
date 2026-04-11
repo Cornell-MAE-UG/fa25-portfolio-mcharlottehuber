@@ -11,3 +11,23 @@ In 2021, NASA asked me to design a spaceship...Lorem ipsum dolor sit amet, conse
 
 Aenean tincidunt aliquam arcu, in euismod dui dapibus eu. In placerat, mi et ultrices consequat, quam ligula cursus mauris, in semper neque nibh at est. Maecenas hendrerit dignissim porta. Phasellus nec fringilla dolor. Etiam efficitur nisi sit amet velit pharetra feugiat. Etiam ultrices turpis at leo semper, eleifend scelerisque neque malesuada. Aliquam molestie congue rhoncus. Donec blandit neque dolor, nec tristique mi pretium ac. Mauris tincidunt ullamcorper magna, nec pellentesque mi sagittis quis.
 
+
+  <img src="/workspaces/fa25-portfolio-mcharlottehuber/assets/images/first_prototype_CAD.png"
+
+<img src="assets/images/first_prototype_measurements&dimensions.png"
+
+
+<div style="display:flex; gap:16px; justify-content:center; align-items:flex-start; flex-wrap:wrap; margin: 16px 0;">
+  <figure style="margin:0; text-align:center; max-width:420px; width:100%;">
+  <img src="/workspaces/fa25-portfolio-mcharlottehuber/assets/images/first_prototype_CAD.png"
+       alt="Assembly Sketch"
+       style="width:100%; max-width:420px; border-radius:8px;">
+</figure>
+
+
+<div style="display:flex; gap:16px; justify-content:center; align-items:flex-start; flex-wrap:wrap; margin: 16px 0;">
+  <figure style="margin:0; text-align:center; max-width:420px; width:100%;">
+  <img src="assets/images/first_prototype_measurements&dimensions.png"
+       alt="Assembly Sketch"
+       style="width:100%; max-width:420px; border-radius:8px;">
+</figure>
