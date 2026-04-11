@@ -19,7 +19,7 @@ Aenean tincidunt aliquam arcu, in euismod dui dapibus eu. In placerat, mi et ult
 
 <div style="display:flex; gap:16px; justify-content:center; align-items:flex-start; flex-wrap:wrap; margin: 16px 0;">
   <figure style="margin:0; text-align:center; max-width:420px; width:100%;">
-  <img src="/workspaces/fa25-portfolio-mcharlottehuber/assets/images/first_prototype_CAD.png"
+  <img src="/workspaces/fa25-portfolio-mcharlottehuber/_projects/image.png"
        alt="Assembly Sketch"
        style="width:100%; max-width:420px; border-radius:8px;">
 </figure>
