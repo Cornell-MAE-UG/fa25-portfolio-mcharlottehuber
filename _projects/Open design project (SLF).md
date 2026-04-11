@@ -21,7 +21,7 @@ header-includes:
 **Team:** Team 003
 **Client(s):** Cornell CALS Extension / E\&J Gallo Winery / National Grape  
 
-## Client Outline xx
+## Client Outline 
 ### Problem statement 
 Vineyards across the United States are plagued by spotted lantern fly infestations, which, according to the Cornell Chronicle can cause up to $8.8 million in damages per vineyard over 3 years of infestation due to vine death, reduced fruit quality, and product contamination. There is currently no available mechanical system that draws the SLFs on or near grapevines during the harvest window away from vines and concentrates them into a controlled location where they can be removed or contained.
 
@@ -99,7 +99,7 @@ During harvest, bugs on the vines are collected with the fruit but only a small 
 - Fabrication: sawed wood to desired width and length with the bandsaw, drilled holes (1cm diameter) every 2 inches in 2 out of 3 wooden parts of the same length, glued to strips of wood in a horseshoe shape, with the strips of wood with holes facing each other, for the inner and the outer part of the pole. Cut the wood cylinder (1cm diameter) into 4 inch long pieces, superglued ticker wooden cylinder at the end such that these pieces slot into the drilled holes on the pole. 
 
 ## CAD design 
-<img src="/workspaces/fa25-portfolio-mcharlottehuber/assets/images/first_prototype_CAD.png" alt="Description" width="500">
+
 
 
 ## sketches
@@ -113,11 +113,6 @@ During harvest, bugs on the vines are collected with the fruit but only a small 
 
 
 ## measurements & dimensions
-  <figure style="margin:0; text-align:center; max-width:420px; width:100%;">
-  <img src="/workspaces/fa25-portfolio-mcharlottehuber/assets/images/first_prototype_measurements&dimensions.png"
-       alt="Prototype Setup"
-       style="width:100%; max-width:420px; border-radius:8px;">
-</figure>
 
 
 
