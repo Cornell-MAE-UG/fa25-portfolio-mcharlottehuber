@@ -21,7 +21,7 @@ header-includes:
 **Team:** Team 003
 **Client(s):** Cornell CALS Extension / E\&J Gallo Winery / National Grape  
 
-## Client Outline
+## Client Outline xx
 ### Problem statement 
 Vineyards across the United States are plagued by spotted lantern fly infestations, which, according to the Cornell Chronicle can cause up to $8.8 million in damages per vineyard over 3 years of infestation due to vine death, reduced fruit quality, and product contamination. There is currently no available mechanical system that draws the SLFs on or near grapevines during the harvest window away from vines and concentrates them into a controlled location where they can be removed or contained.
 
