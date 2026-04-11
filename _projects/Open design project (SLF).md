@@ -101,6 +101,7 @@ During harvest, bugs on the vines are collected with the fruit but only a small 
 ## CAD design 
 <img src="/workspaces/fa25-portfolio-mcharlottehuber/assets/images/first_prototype_CAD.png" alt="Description" width="500">.
 
+image: /workspaces/fa25-portfolio-mcharlottehuber/assets/images/first_prototype_CAD.png
 
 
 
