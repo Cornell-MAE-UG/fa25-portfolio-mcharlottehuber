@@ -264,4 +264,4 @@ The container includes a sliding drawer supported by four wheels, allowing it to
 
 ## Poster
 
-[Poster PDF]({{ "BenSedranResume.pdf" | relative_url }})
+[Poster PDF]({{  | relative_url }})
