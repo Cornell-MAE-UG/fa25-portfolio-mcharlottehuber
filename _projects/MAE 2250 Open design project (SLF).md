@@ -8,6 +8,7 @@ image: /assets/images/4-Stages-Adult.jpg
 header-includes:
   - \pagenumbering{gobble}
 
+
 ---
 For one of my classes, MAE 2250 (Intro to Mechanical Design), I worked with a group on building a functional prototype, creating a potential solution to the invasive spotted lanterfly infecting vineyards across New York. We made a pitch to potential clients, built a  functional first prototype, and built and tested a second prototype design. We presented our prototype with an academic poster of our prototype and the results of our testing in an exhibition in the Cornell engineering atrium. To document our second prototype, testing and results, we wrote a client report on with our conclusions and prototype details. 
 
