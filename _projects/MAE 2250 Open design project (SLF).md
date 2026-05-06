@@ -221,9 +221,9 @@ Vineyards across the United States are impacted by spotted lantern fly (SLF) inf
 ### Final Prototype and Application: 
 Our final prototype is a low-cost mechanical trap designed to attract, capture, and contain SLFs away from grapevines during the harvest window. The system consists of three main components: funnel-flap entry system, container with a sliding drawer, and an adjustable pole. SLFs are attracted using a natural attractant inside the container, such as the tree-of-heaven sap. SLFs enter through a funnel that open under small applied force, but mesh together to prevent an SLF from exiting. The base of the container is designed so that it could hold tree-of-heaven sap and is removable for easy emptying and refilling without disassembly. The drawer rolls on wheels rather than drawer rails, making reinsertion simple and reducing the need for precise alignment. The trap is mounted on an extendable pole composed of two telescoping steel rails. The height can be adjusted and secured using two bolts and nuts through aligned holes, allowing the trap to be positioned between 6 ~ 9 feet for different vineyard conditions. 
 
-/assets/images/Screenshot 2026-05-06 at 05.59.05.png
+![Screenshot](assets/images/Screenshot 2026-05-06 at 05.59.05.png)
 
-assets/images/Screenshot 2026-05-06 at 05.59.16.png
+![Screenshot](/assets/images/Screenshot 2026-05-06 at 05.59.16.png)
 
 ### Conclusion and Recommendation: 
 From our testing, we concluded that the prototype successfully demonstrates the key mechanical functions required for SLF capture and containment. 
@@ -265,4 +265,4 @@ The container includes a sliding drawer supported by four wheels, allowing it to
 ---
 
 ## Poster
-/assets/images/Poster 2250.pptx.jpg
+![poster](/assets/images/Poster 2250.pptx.jpg)
