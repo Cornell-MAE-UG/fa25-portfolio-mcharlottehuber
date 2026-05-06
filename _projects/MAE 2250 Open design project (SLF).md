@@ -266,4 +266,3 @@ The container includes a sliding drawer supported by four wheels, allowing it to
 
 ## Poster
 ![poster](/fa25-portfolio-mcharlottehuber/assets/images/Poster-2250.pptx.jpg)
-
