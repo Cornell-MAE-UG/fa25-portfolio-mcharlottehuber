@@ -267,16 +267,3 @@ The container includes a sliding drawer supported by four wheels, allowing it to
 ## Poster
 ![poster](/fa25-portfolio-mcharlottehuber/assets/images/Poster-2250.pptx.jpg)
 
-<div style="display:flex; gap:16px; justify-content:center; align-items:flex-start; flex-wrap:wrap; margin: 16px 0;">
-  <figure style="margin:0; text-align:center; max-width:420px; width:100%;">
-  <img src="/workspaces/fa25-portfolio-mcharlottehuber/assets/images/Screenshot.2026-05-06-at-05.59.16.png"
-       alt="poster"
-       style="width:100%; max-width:330px; border-radius:8px;">
-  <figcaption style="text-align: center; font-size: 0.9em; color: #2b2b2bff;">
-    <strong>poster.</strong>
-  </figcaption>
-</figure>
-
-![Screenshot](assets/images/Screenshot.2026-05-06-at-05.59.05.png)
-
-<img src="assets/images/Screenshot.2026-05-06-at-05.59.16.png">
