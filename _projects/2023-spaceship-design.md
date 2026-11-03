@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Fluid Mechanical dissection
-description: 
+description:  
 technologies: 
 image: /assets/images/spaceship-design.jpg
 ---
